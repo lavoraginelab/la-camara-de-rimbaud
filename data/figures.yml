@@ -94,10 +94,7 @@ figure_list:
     src: "figures/06/Imagen_3.jpg"
     alt: "Página de inicio de la Imagoteca de 2016."
     caption: "Página de inicio de la Imagoteca de 2016."
-  - id: "24"
-    src: "figures/06/Imagen_4.jpg"
-    alt: "Retrato de Deolindo Felipe Bittel. Fondo Hugo Gambini."
-    caption: "Retrato de Deolindo Felipe Bittel. Fondo Hugo Gambini."
+  
   - id: "24"
     src: "figures/06/Imagen_5.jpg"
     alt: "Registro del retrato de Deolindo Felipe Bittel (imagen 4). Allí se pueden observar los campos hipervinculados, entre ellos, la agrupación dentro de la Imagoteca en torno al fondo Gambini y el enlace hacia la descripción archivística del sobre en el sistema AtoM."
