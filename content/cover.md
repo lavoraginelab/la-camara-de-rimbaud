@@ -10,4 +10,4 @@ image: cover.jpg
 
 Esta es la web del libro «La cámara de Arthur Rimbaud»
 
-{{< q-figure-group grid=2 id="50, 51" >}}
+{{< q-figure id="50" >}}
