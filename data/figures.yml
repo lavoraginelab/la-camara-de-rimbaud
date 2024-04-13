@@ -2,12 +2,12 @@ figure_list:
 
   - id: "01"
     src: figures/01/imagen_1.jpg
-    alt: Alfredo Zalce
-    caption: "Imagen 1. Alfredo Zalce. Foto: Salvador Luna Perales. *Recuperado en: [Alfredo Zalce, renovador de la gráfica mexicana](https://inba.gob.mx/prensa/13618/alfredo-zalce-renovador-de-la-grafica-mexicana%20)*."
+    alt: Jeanne Rosalie Vitalie Rimbaud. Carte de visite
+    caption: "Jeanne Rosalie Vitalie Rimbaud. Carte de visite, impresión albúmina de negativo en colodión, c 1873. Hermana de Arthur fotografiada en el estudio de Eugène Vassogne, en la calle comercial Sous les Allés número 113 de Charleville. Vitalie murió en 1875 a los 17 años."
   - id: "02"
     src: figures/01/imagen_2.jpg
-    alt: "Imagen 2. Traslado del archivo personal del centro de documentación a la Sala *Miantskuarhu*. 1 de junio del 2017. Foto: Salvador Luna Perales."
-    caption: "Traslado del archivo personal del centro de documentación a la Sala *Miantskuarhu*. 1 de junio del 2017."
+    alt: "Frédéric Rimbaud el día de su primera comunión, 1866. "
+    caption: "De pie Frédéric Rimbaud, hermano mayor de Arthur, el día de su primera comunión, 1866. La Biblioteca Nacional de Francia data erróneamente la impresión de 1865."
   - id: "03"
     src: figures/01/imagen_3.jpg
     alt: "Imagen 3. Diversos documentos (carteles, principalmente) que se llevaron a la Sala *Miantskuarhu* para su debido resguardo*. 1 de junio del 2017. Foto: Salvador Luna Perales."
@@ -19,7 +19,7 @@ figure_list:
   - id: "05"
     src: figures/01/imagen_5.jpg
     alt: "Imagen 5. Interior de la Sala *Miantskuarhu* donde hoy se encuentra resguardado el archivo personal de Alfredo Zalce. Foto: Yaminel Bernal, abril del 2022."
-    caption: "nterior de la Sala *Miantskuarhu* donde hoy se encuentra resguardado el archivo personal de Alfredo Zalce. Foto: Yaminel Bernal, abril del 2022."
+    caption: "interior de la Sala *Miantskuarhu* donde hoy se encuentra resguardado el archivo personal de Alfredo Zalce. Foto: Yaminel Bernal, abril del 2022."
   - id: "06"
     src: figures/01/imagen_6.jpg
     alt: "Imagen 6. Estudiantes y profesores de segundo semestre de la Licenciatura en AAyGD organizando bocetos de Zalce en el marco de Taller de Integración Básico II. Foto: Yaminel Bernal, febrero del 2020."
