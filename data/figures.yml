@@ -204,10 +204,7 @@ figure_list:
     alt: 
     caption: "Foto 9. El Emperador Gynt. Autor: versión libre de Franklin Caicedo de la obra Peer Gynt de Heinrick Ibsen. Dirección: Lito Cruz. 1986. En escena: Franklin Caicedo. Autor: Jorge Brantmayer. Fuente: archivo de la Escena Teatral UC."
   - id: "50"
-    src: "figures/ica_logo.png"
-    alt: 
-    caption: ""
-  - id: "51"
     src: "figures/logo.png"
     alt: 
     caption: ""
+  
