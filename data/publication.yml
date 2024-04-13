@@ -37,7 +37,7 @@ publisher:
   - name: Libros de la vorágine
     location: Santiago de Chile / Barcelona
     url:
-    logo: logo-getty.png
+    logo: logo.png
 
 # ------------------------------------------------------------------------------
 # Contributors
