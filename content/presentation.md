@@ -4,7 +4,7 @@ title: 'Introducción'
 subtitle: 'Del poema a la imágen'
 weight: 10
 class: page-one
-type: essay
+type: page
 contributor:
   - id: Ana Paula Sánchez-Cardona
     role: author
