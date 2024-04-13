@@ -10,24 +10,42 @@ figure_list:
     caption: "De pie Frédéric Rimbaud, hermano mayor de Arthur, el día de su primera comunión, 1866. La Biblioteca Nacional de Francia data erróneamente la impresión de 1865."
   - id: "03"
     src: figures/01/imagen_3.jpg
-    alt: "Imagen 3. Diversos documentos (carteles, principalmente) que se llevaron a la Sala *Miantskuarhu* para su debido resguardo*. 1 de junio del 2017. Foto: Salvador Luna Perales."
-    caption: "Diversos documentos (carteles, principalmente) que se llevaron a la Sala *Miantskuarhu* para su debido resguardo*. 1 de junio del 2017. Foto: Salvador Luna Perales."
+    alt: "«Arthur Rimbaud enfant», dibujo de Paterne Berrichon"
+    caption: "«Arthur Rimbaud enfant», dibujo de Paterne Berrichon publicado en La Revue Blanche, 1897, ilustrando un artículo del mismo autor titulado “Rimbaud” con fecha del 1ero de septiembre de 1897. En La Revue Blanche publicaron textos de Paul Verlaine, Léon Blum, Paul Claudel, Marcel Proust y traducciones de por ejemplo Friedrich Nietzsche o Henrik Ibsen."
   - id: "04"
     src: figures/01/imagen_4.jpg
-    alt: "Imagen 4. Alumnas de la Licenciatura en Administración de Archivos y Gestión Documental durante las labores de traslado del archivo en coordinación con profesores de la carrera, ejercicio que más tarde asociarían como una de sus experiencias de aprendizaje situado. 1 de junio del 2017."
-    caption: "Alumnas de la Licenciatura en Administración de Archivos y Gestión Documental durante las labores de traslado del archivo en coordinación con profesores de la carrera, ejercicio que más tarde asociarían como una de sus experiencias de aprendizaje situado. 1 de junio del 2017."
+    alt: "Impresión de la fotografía de Arthur Rimbaud el día de su primera comunión"
+    caption: "Impresión de la fotografía de Arthur Rimbaud el día de su primera comunión (con retoque visible en el fondo) que en el reverso lleva la autentificación de Isabelle Rimbaud, actualmente en el Museo Rimbaud gracias a la donación de la Fundación Catherine Gide. "
   - id: "05"
     src: figures/01/imagen_5.jpg
-    alt: "Imagen 5. Interior de la Sala *Miantskuarhu* donde hoy se encuentra resguardado el archivo personal de Alfredo Zalce. Foto: Yaminel Bernal, abril del 2022."
-    caption: "interior de la Sala *Miantskuarhu* donde hoy se encuentra resguardado el archivo personal de Alfredo Zalce. Foto: Yaminel Bernal, abril del 2022."
+    alt: "Fotografía en la que el retoque redibuja fondo, silla y figura."
+    caption: "Fotografía en la que el retoque redibuja fondo, silla y figura editada en las Obras Completas de Arthur Rimbaud Tomo I por la editorial La Banderole en 1922, edición cuidada por Paterne Berrichon."
   - id: "06"
     src: figures/01/imagen_6.jpg
-    alt: "Imagen 6. Estudiantes y profesores de segundo semestre de la Licenciatura en AAyGD organizando bocetos de Zalce en el marco de Taller de Integración Básico II. Foto: Yaminel Bernal, febrero del 2020."
-    caption: "Estudiantes y profesores de segundo semestre de la Licenciatura en AAyGD organizando bocetos de Zalce en el marco de Taller de Integración Básico II. Foto: Yaminel Bernal, febrero del 2020."
+    alt: "Cabecera del periódico Progrès des Ardennes. Journal quotidien : Politique, littéraire, agricoles et industriel del día viernes 25 de noviembre de 1870."
+    caption: "Cabecera del periódico Progrès des Ardennes. Journal quotidien : Politique, littéraire, agricoles et industriel del día viernes 25 de noviembre de 1870. Este ejemplar es precisamente oro en paño para los rimbauldianos, valioso y extremadamente raro."
   - id: "07"
     src: figures/01/imagen_7.jpg
-    alt: "Imagen 7. Estudiantes de segundo semestre de la Licenciatura en AAyGD organizando bocetos de Zalce en el marco de Taller de Integración Básico II. Foto: Yaminel Bernal, febrero del 2020."
-    caption: "Estudiantes de segundo semestre de la Licenciatura en AAyGD organizando bocetos de Zalce en el marco de Taller de Integración Básico II. Foto: Yaminel Bernal, febrero del 2020."
+    alt: ""
+    caption: ""
+
+  - id: "08"
+    src: figures/01/imagen_8.jpg
+    alt: "Caricatura de André Gill de Auguste Vacquerie para la portada de Les Hommes d'aujourd'hui, 1878."
+    caption: "8.	Caricatura de André Gill de Auguste Vacquerie para la portada de Les Hommes d'aujourd'hui, 1878. La “H“ en la frente posiblemente se refiera a la inicial de Hugo, Victor Hugo"
+- id: "09"
+    src: figures/01/imagen_9.jpg
+    alt: "Fort Dumont. Soldados franceses el 23 de julio de 1870 en el frente de Guerra franco prusiano"
+    caption: "Fort Dumont. Soldados franceses el 23 de julio de 1870 en el frente de Guerra franco prusiano"
+  - id: "10"
+    src: "figures/01/imagen_10.jpg"
+    alt: "«1870-1871. Mézières, Ardennes. Nuestros desastres. Calle después de un bombardeo»"
+    caption: "«1870-1871. Mézières, Ardennes. Nuestros desastres. Calle después de un bombardeo», postal editada por L. Dufour à Reims, 1871."
+
+  - id: "11"
+    src: "figures/imagen_11.jpg"
+    alt: "MÉZIÈRES Destrucción del puente ferroviario en 1871, antes del paso de un tren alemán” – Postal, editor A. Gelly de Charleville, c 1872."
+    caption: "MÉZIÈRES Destrucción del puente ferroviario en 1871, antes del paso de un tren alemán” – Postal, editor A. Gelly de Charleville, c 1872. "
   
   - id: "50"
     src: "figures/logo.png"
