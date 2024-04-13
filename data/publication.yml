@@ -9,7 +9,7 @@
 
 # ------------------------------------------------------------------------------
 # Title & Description
-title: First Encounter of Art Archives
+title: La cámara de Arthur Rimbaud
 subtitle: 
 reading_line:
 short_title:
@@ -17,9 +17,8 @@ short_title:
 description:
   one_line:
   full: >-
-    Last April, on the 28th and 29th, 2022,  the First Encounter of Art Archives was organized by the School of Arts of the Pontificia Universidad Católica de Chile (PUC), with the support of the Comisión del Programa de Archivos de Literatura y Artes del Consejo Internacional de Archivos (Programme Commission Section on Archives of Literature and Art from the International Council on Archives, ICA) 
+    Este libro es un relato iconográfico de Arthur Rimbaud. Siguiendo los pasos de su experiencia fotográfica a través de los recuerdos de sus amigos y familiares se construye una biografía no sólo de su imagen fotografiada sino también de su breve oficio como fotógrafo en África. Pero sobre todo este trayecto es sobre sus retratos y autorretratos, de la perturbación de mostrarse y mostrarnos ante el lente. Sobre lo que dicen las imágenes y sobre lo que ocultan.
 
-    With the aim of creating a Latinamerican artistic archive network, open for the sake of sharing experiences and to pose a discussion on the practices that surround the Archive, there was an open call for institutions and researches that preserve heritages, holdings and national and international collections.
 
 
 # ------------------------------------------------------------------------------
@@ -27,7 +26,7 @@ description:
 # ------------------------------------------------------------------------------
 
 pub_date: 2019-03-01 # YYYY-MM-DD
-language: en
+language: es
 pub_type: book # book | journal-periodical | other
 
 identifier:
@@ -35,8 +34,8 @@ identifier:
   url:
 
 publisher:
-  - name: Facultad de Artes, Pontificia Universidad Católica de Chile
-    location: Santiago de Chile
+  - name: Libros de la vorágine
+    location: Santiago de Chile / Barcelona
     url:
     logo: logo-getty.png
 
@@ -45,22 +44,22 @@ publisher:
 # ------------------------------------------------------------------------------
 
 
-contributor_as_it_appears: Yaminel Bernal Astorga, Luis Miguel García Velázquez, María Rodríguez Jaime, María José Lemaître, Isabel Cáceres, Natalia Efron, Eugenia Sik, Paulina Bravo, Paola Letelier, Jeannette Garcés, Isidora Neira, Sol Henaro, Isabel García Pérez de Arce, Patrizio Gecele Muñoz.<br /><i> Presentation de Alejandra Wolff</i>
+contributor_as_it_appears: <i>Ana Paula Sánchez-Cardona</i>
 
 contributor: 
   - id: main
     type: primary
-    first_name: Alejandra
-    last_name: Wolff
+    first_name: Ana Paula
+    last_name: Sánchez-Cardona
     title: 
-    role: editor
+    role: author
     affiliation: 
 
 # ------------------------------------------------------------------------------
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2022, Facultad de Artes de l Pontificia Universidad Católica de Chile
+copyright: © 2023, Libros de la vorágine
 
 license:
   name: Creative Commons Attribution 4.0 International License
