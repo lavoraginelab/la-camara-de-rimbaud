@@ -44,11 +44,251 @@ figure_list:
     caption: "«1870-1871. Mézières, Ardennes. Nuestros desastres. Calle después de un bombardeo», postal editada por L. Dufour à Reims, 1871."
 
   - id: "11"
-    src: "figures/imagen_11.jpg"
+    src: "figures/01/imagen_11.jpg"
     alt: "«MÉZIÈRES Destrucción del puente ferroviario en 1871, antes del paso de un tren alemán». Postal, editor A. Gelly de Charleville, c 1872."
     caption: "«MÉZIÈRES Destrucción del puente ferroviario en 1871, antes del paso de un tren alemán». Postal, editor A. Gelly de Charleville, c 1872. "
-  
+
+  - id: "12"
+    src: "figures/01/imagen_12.jpg"
+    alt: 
+    caption: "" 
+
+  - id: "13"
+    src: "figures/01/imagen_13.jpg"
+    alt: 
+    caption: ""   
+
+  - id: "14"
+    src: "figures/01/imagen_14.jpg"
+    alt: 
+    caption: "" 
+
+  - id: "15"
+    src: "figures/01/imagen_15.jpg"
+    alt: 
+    caption: "" 
+
+  - id: "16"
+    src: "figures/02/imagen_16.jpg"
+    alt: 
+    caption: "" 
+
+  - id: "17"
+    src: "figures/02/imagen_17.jpg"
+    alt: 
+    caption: ""
+
+  - id: "18"
+    src: "figures/02/imagen_18.png"
+    alt: 
+    caption: ""
+  - id: "18"
+    src: "figures/02/imagen_18.jpg"
+    alt: 
+    caption: ""
+
+  - id: "18"
+    src: "figures/02/imagen_18.jpg"
+    alt: 
+    caption: ""  
+
+  - id: "19"
+    src: "figures/02/imagen_19.jpg"
+    alt: 
+    caption: ""  
+
+  - id: "18"
+    src: "figures/02/imagen_18.jpg"
+    alt: 
+    caption: "" 
+
+  - id: "19"
+    src: "figures/02/imagen_19.jpg"
+    alt: 
+    caption: "" 
+    
+  - id: "20"
+    src: "figures/02/imagen_20.jpg"
+    alt: 
+    caption: "" 
+
+  - id: "21"
+    src: "figures/02/imagen_21.jpg"
+    alt: 
+    caption: "" 
+
+  - id: "22"
+    src: "figures/02/imagen_22.jpg"
+    alt: 
+    caption: ""
+
+  - id: "23"
+    src: "figures/02/imagen_23.jpg"
+    alt: 
+    caption: ""
+
+  - id: "24"
+    src: "figures/02/imagen_24.jpg"
+    alt: 
+    caption: ""
+
+  - id: "25"
+    src: "figures/02/imagen_25.jpg"
+    alt: 
+    caption: ""
+
+  - id: "26"
+    src: "figures/02/imagen_26.jpg"
+    alt: 
+    caption: ""
+
+  - id: "27"
+    src: "figures/02/imagen_27.jpg"
+    alt: 
+    caption: ""
+
+  - id: "28"
+    src: "figures/02/imagen_28.jpg"
+    alt: 
+    caption: ""
+
+  - id: "29"
+    src: "figures/02/imagen_29.jpg"
+    alt: 
+    caption: ""
+
+  - id: "30"
+    src: "figures/02/imagen_30.jpg"
+    alt: 
+    caption: ""
+
+  - id: "31"
+    src: "figures/02/imagen_31.jpg"
+    alt: 
+    caption: ""
+
+  - id: "32"
+    src: "figures/02/imagen_32.jpg"
+    alt: 
+    caption: ""
+
+  - id: "33"
+    src: "figures/02/imagen_33.jpg"
+    alt: 
+    caption: ""
+
+  - id: "34"
+    src: "figures/02/imagen_34.jpg"
+    alt: 
+    caption: ""
+
+  - id: "35"
+    src: "figures/02/imagen_35.jpg"
+    alt: 
+    caption: ""
+
+  - id: "36"
+    src: "figures/02/imagen_36.jpg"
+    alt: 
+    caption: ""
+
+  - id: "37"
+    src: "figures/02/imagen_37.jpg"
+    alt: 
+    caption: ""
+
+  - id: "38"
+    src: "figures/02/imagen_38.jpg"
+    alt: 
+    caption: ""
+
+  - id: "39"
+    src: "figures/02/imagen_39.jpg"
+    alt: 
+    caption: ""
+
+  - id: "40"
+    src: "figures/02/imagen_40.jpg"
+    alt: 
+    caption: ""
+
+  - id: "41"
+    src: "figures/03/imagen_41.jpg"
+    alt: 
+    caption: ""  
+
+  - id: "42"
+    src: "figures/03/imagen_42.jpg"
+    alt: 
+    caption: ""
+
+  - id: "43"
+    src: "figures/03/imagen_43.jpg"
+    alt: 
+    caption: ""
+
+  - id: "44"
+    src: "figures/03/imagen_44.jpg"
+    alt: 
+    caption: ""
+
+  - id: "45"
+    src: "figures/03/imagen_45.jpg"
+    alt: 
+    caption: ""
+
+  - id: "46"
+    src: "figures/03/imagen_46.jpg"
+    alt: 
+    caption: ""
+
+  - id: "47"
+    src: "figures/02/imagen_47.jpg"
+    alt: 
+    caption: ""
+
+  - id: "48"
+    src: "figures/03/imagen_48.jpg"
+    alt: 
+    caption: ""
+
+  - id: "49"
+    src: "figures/03/imagen_49.jpg"
+    alt: 
+    caption: ""
+
   - id: "50"
+    src: "figures/03/imagen_50.jpg"
+    alt: 
+    caption: ""                  
+
+
+  - id: "51"
+    src: "figures/03/imagen_51.jpg"
+    alt: 
+    caption: ""
+
+  - id: "52"
+    src: "figures/03/imagen_52.jpg"
+    alt: 
+    caption: ""
+
+  - id: "53"
+    src: "figures/03/imagen_53.jpg"
+    alt: 
+    caption: ""
+
+  - id: "54"
+    src: "figures/03/imagen_54.jpg"
+    alt: 
+    caption: ""
+
+  - id: "55"
+    src: "figures/03/imagen_55.jpg"
+    alt: 
+    caption: ""          
+
+  - id: "500"
     src: "figures/logo.png"
     alt: 
     caption: ""
