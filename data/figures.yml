@@ -24,6 +24,7 @@ figure_list:
     src: figures/01/imagen_6.jpg
     alt: "Cabecera del periódico Progrès des Ardennes. Journal quotidien : Politique, littéraire, agricoles et industriel del día viernes 25 de noviembre de 1870."
     caption: "Cabecera del periódico Progrès des Ardennes. Journal quotidien : Politique, littéraire, agricoles et industriel del día viernes 25 de noviembre de 1870. Este ejemplar es precisamente oro en paño para los rimbauldianos, valioso y extremadamente raro."
+
   - id: "07"
     src: figures/01/imagen_7.jpg
     alt: ""
@@ -33,7 +34,7 @@ figure_list:
     src: figures/01/imagen_8.jpg
     alt: "Caricatura de André Gill de Auguste Vacquerie."
     caption: "Caricatura de André Gill de Auguste Vacquerie"
-- id: "09"
+  - id: "09"
     src: figures/01/imagen_9.jpg
     alt: "Fort Dumont. Soldados franceses el 23 de julio de 1870 en el frente de Guerra franco prusiano"
     caption: "Fort Dumont. Soldados franceses el 23 de julio de 1870 en el frente de Guerra franco prusiano"
