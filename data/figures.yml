@@ -286,8 +286,164 @@ figure_list:
   - id: "55"
     src: "figures/03/imagen_55.jpg"
     alt: 
-    caption: ""          
+    caption: ""  
 
+  - id: "56"
+    src: "figures/04/imagen_56.jpg"
+    alt: 
+    caption: "" 
+
+  - id: "57"
+    src: "figures/04/imagen_57.jpg"
+    alt: 
+    caption: "" 
+
+  - id: "58"
+    src: "figures/04/imagen_58.jpg"
+    alt: 
+    caption: "" 
+
+  - id: "59"
+    src: "figures/04/imagen_59.jpg"
+    alt: 
+    caption: "" 
+
+  - id: "60"
+    src: "figures/04/imagen_60.jpg"
+    alt: 
+    caption: "" 
+
+  - id: "61"
+    src: "figures/04/imagen_61.jpg"
+    alt: 
+    caption: "" 
+
+  - id: "62"
+    src: "figures/04/imagen_62.jpg"
+    alt: 
+    caption: "" 
+
+  - id: "63"
+    src: "figures/04/imagen_64.jpg"
+    alt: 
+    caption: "" 
+
+  - id: "64"
+    src: "figures/04/imagen_64.jpg"
+    alt: 
+    caption: "" 
+
+  - id: "65"
+    src: "figures/05/imagen_65.jpg"
+    alt: 
+    caption: ""
+
+  - id: "66"
+    src: "figures/05/imagen_66.jpg"
+    alt: 
+    caption: ""
+
+  - id: "67"
+    src: "figures/05/imagen_67.jpg"
+    alt: 
+    caption: ""
+
+  - id: "68"
+    src: "figures/05/imagen_68.jpg"
+    alt: 
+    caption: ""
+
+  - id: "69"
+    src: "figures/05/imagen_69.jpg"
+    alt: 
+    caption: ""  
+
+  - id: "70"
+    src: "figures/06/imagen_70.jpg"
+    alt: 
+    caption: "" 
+
+  - id: "71"
+    src: "figures/06/imagen_71.jpg"
+    alt: 
+    caption: "" 
+
+
+  - id: "72"
+    src: "figures/06/imagen_72.jpg"
+    alt: 
+    caption: "" 
+
+  - id: "73"
+    src: "figures/07/imagen_73.jpg"
+    alt: 
+    caption: ""  
+
+  - id: "74"
+    src: "figures/07/imagen_74.jpg"
+    alt: 
+    caption: "" 
+
+  - id: "75"
+    src: "figures/07/imagen_75.jpg"
+    alt: 
+    caption: "" 
+
+  - id: "76"
+    src: "figures/07/imagen_76.jpg"
+    alt: 
+    caption: "" 
+
+  - id: "76"
+    src: "figures/07/imagen_77.jpg"
+    alt: 
+    caption: "" 
+
+  - id: "77"
+    src: "figures/07/imagen_78.jpg"
+    alt: 
+    caption: "" 
+
+  - id: "78"
+    src: "figures/07/imagen_79.jpg"
+    alt: 
+    caption: "" 
+
+  - id: "79"
+    src: "figures/07/imagen_80.jpg"
+    alt: 
+    caption: "" 
+
+  - id: "80"
+    src: "figures/07/imagen_81.jpg"
+    alt: 
+    caption: ""    
+
+  - id: "81"
+    src: "figures/08/imagen_81.jpg"
+    alt: 
+    caption: ""   
+
+  - id: "82"
+    src: "figures/09/imagen_82.jpg"
+    alt: 
+    caption: "" 
+
+  - id: "82"
+    src: "figures/10/imagen_82.jpg"
+    alt: 
+    caption: "" 
+
+  - id: "83"
+    src: "figures/10/imagen_83.jpg"
+    alt: 
+    caption: ""    
+
+
+
+
+
+  
   - id: "500"
     src: "figures/logo.png"
     alt: 
