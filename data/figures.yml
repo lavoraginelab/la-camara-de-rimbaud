@@ -299,17 +299,17 @@ figure_list:
     caption: "" 
 
   - id: "58"
-    src: "figures/04/imagen_58.jpg"
+    src: "figures/04/imagen_58.png"
     alt: 
     caption: "" 
 
   - id: "59"
-    src: "figures/04/imagen_59.jpg"
+    src: "figures/04/imagen_59.png"
     alt: 
     caption: "" 
 
   - id: "60"
-    src: "figures/04/imagen_60.jpg"
+    src: "figures/04/imagen_60.png"
     alt: 
     caption: "" 
 
@@ -319,7 +319,7 @@ figure_list:
     caption: "" 
 
   - id: "62"
-    src: "figures/04/imagen_62.jpg"
+    src: "figures/04/imagen_62.png"
     alt: 
     caption: "" 
 
@@ -359,12 +359,12 @@ figure_list:
     caption: ""  
 
   - id: "70"
-    src: "figures/06/imagen_70.jpg"
+    src: "figures/06/imagen_70.png"
     alt: 
     caption: "" 
 
   - id: "71"
-    src: "figures/06/imagen_71.jpg"
+    src: "figures/06/imagen_71.png"
     alt: 
     caption: "" 
 
